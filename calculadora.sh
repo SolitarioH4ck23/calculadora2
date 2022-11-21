@@ -1,6 +1,6 @@
 #!/bin/bash
 #|------------------------------------------------|
-#|Mini calculadora SolitarioHack :)               |
+#|Mini calculadora SolitarioH4ck23 :)               |
 #|caculadora basica de (Operaciones Matematicas)  |
 #|Creador: By SolitarioHack                       |
 #|------------------------------------------------|
